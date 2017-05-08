@@ -12,4 +12,4 @@ The main idea is: Are you a builder, a gardener, a plumber or something like tha
 
 Technologies: JSP, MySQL 6.3, HTML/CSS, Tomcat 7, bootstrap, JQuery | Progress: Still working on it -> around 80% concluded
 
-=== ITS BELONGS ME AND ONLY ME === === Rodolfo Mathias de Moraes === Started in: December/11/2k16
+=== ITS BELONGS ME === === Rodolfo Mathias de Moraes === Started in: December/11/2k16
